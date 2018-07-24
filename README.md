@@ -1,15 +1,15 @@
 # node-iot-certs
 
-## Install SDK 
-npm install aws-iot-device-sdk
+### Install SDK 
+$ npm install aws-iot-device-sdk
 
-## Create Device
+### Create AWS IoT Device
 
-## Create Certs
+### Create AWS IoT Certificates
 
-## Save Certs
+### Download Certificates 
 
-## Update connect.js with name of certs and deviceId
+### Update connect.js with name of certs and deviceId
 
-## Run
+### Run
 $ node connect.js
